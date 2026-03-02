@@ -118,7 +118,6 @@ External compasses are automatically detected on the external I2C bus.
 
 ---
 
-
 ## Connector Overview
 
 [![Pinout](./sparknavi-blue-pinout.png)](./sparknavi-blue-pinout.png)
@@ -423,22 +422,3 @@ Power consumption may vary depending on connected peripherals.
 
 **SparkNavi**  
 Designed & Manufactured in Taiwan
-
----
-
-## Downloads
-
-For integration support or volume orders, please contact us.
-
-Engineering and compliance documents are available below.
-
-### Mechanical & Engineering
-
-- 📦 [3D STEP Model](../downloads/SparkNavi-Blue-3D-STEP.zip)
-- 📄 [Product Datasheet](../downloads/SparkNavi-Blue_datasheet.pdf)
-
-### Certifications
-
-- 📄 [FCC SDoC (United States)](../downloads/SparkNavi-Blue-FCC-SDoC-US.pdf)
-- 📄 [CE EMC (European Union)](../downloads/SparkNavi-Blue-CE-EMC-EU.pdf)
-- 📄 [PSE (Japan)](../downloads/SparkNavi-Blue-PSE-JP.pdf)
